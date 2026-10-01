@@ -6,8 +6,8 @@ My projects are pieces, internships are moves on a scoresheet, and the board tel
 
 Welcome to the opening
 
-## What's inside
+## what's inside
 
-- **Selected games** — project tiles that flip on click
-- **Internships** — expandable scoresheet, with chess notation per row
-- **Your move** — a playable board that autoplays my timeline, then lets you play
+- **selected games** —> project tiles that flip on click
+- **internships** —> expandable scoresheet, with chess notation per row
+- **your move** —> a playable board that autoplays my timeline, then lets you play
